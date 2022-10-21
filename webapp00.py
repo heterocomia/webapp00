@@ -13,4 +13,4 @@ st.header("bem vindo!")
 st.subheader("sem comunismo!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.white("Como já deve ter percebido, o whatsapp 2(), é a versão requiem do whatsapp!")
+st.write("Como já deve ter percebido, o whatsapp 2(), é a versão requiem do whatsapp!")
